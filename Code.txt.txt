@@ -120,7 +120,7 @@
 
 
 
-                       ACTIVITY FILE CODE
+                       ACTIVITY CODE  - KOTLIN FILE
 
 
 ==============================================================================
@@ -167,4 +167,5 @@ class MainActivity : AppCompatActivity() {
         }
     }
 }
+
 
